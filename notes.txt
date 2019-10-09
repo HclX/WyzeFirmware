@@ -1,0 +1,20 @@
+From Wyze website:
+
+Flashing Firmware for Wyze Cam v1
+
+Wyze Cam v1 firmware files can be found on the Release Notes page.
+Download a specific version of firmware, unzip it, put it on the root directory of your microSD card and rename it to FIRMWARE_660R_F.BIN.
+Power off your camera, insert your mircoSD card.
+Hold the setup button, plug in your USB cable, and keep holding the setup button for 12-15 seconds, then release the button.
+Wait for 3-4 minutes. The camera will reboot and change light status during this time.
+After it is done, the camera light should be flashing yellow (ready to setup).
+Re-setup your device as a new device.
+Flashing Firmware for Wyze Cam v2 & Pan Cam
+
+Wyze Cam v2 and Pan firmware files can be found on the Release Notes page.
+Download a specific version of firmware, unzip it, put it on the root directory of your microSD card and rename it to demo.bin.
+Power off your camera and insert your microSD card.
+Hold the setup button, plug in your USB cable, keep holding the setup button for 3-6 seconds until the light is solid blue, then release the button.
+Note: The "Solid Blue" in this case is not the same as the one normally seen on the camera. Instead, both the blue and yellow LEDs will be on at once, making it appear to be a lighter blue.
+Wait for 3-4 minutes. The camera will reboot and change light status during this time.
+After it is done, your camera should be functioning with original setup. No need to re-setup your camera!
